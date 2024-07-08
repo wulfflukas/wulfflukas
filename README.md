@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @wulfflukas and i am a cyber securaty student
+- 👋 Hi, I’m @wulfflukas, i am a cyber securaty student, i am 21 and lives in Norway
 - 👀 I’m interested in Cybersecuraty and Coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on cool applications
+- 📫 How to reach me Discord/pumpkin1239
 - 😄 Pronouns: Airplain
-- ⚡ Fun fact: ...
+
 
 <!---
 wulfflukas/wulfflukas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
